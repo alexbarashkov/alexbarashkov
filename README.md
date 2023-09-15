@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### My name is Alexey Barashkov 🙋🏻‍♂️
+
+#### Databases:
+PostgreSQL, MySQL
+
+#### Data Science:
+Python, Pandas, Numpy, Matplotlib, SciPy, Plotly
+
+📫 How to reach me: alexeybarashkov@yandex.ru
+
 <!--
 **alexbarashkov/alexbarashkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
